@@ -1,0 +1,62 @@
+#giphyHeader {
+	background-color: lightblue;
+	text-align: center;
+	padding: 20px;
+	margin: 0;
+	
+}
+
+h1 {
+	font-family: Arial;
+}
+
+
+#artistButtons {
+	background-color: white;
+    border: 2px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 100%;
+
+}
+
+
+#artist-form {
+	position: center;
+	background-color: white;
+	width: 40%;
+	margin-left: 400px;
+	text-align: center;
+	padding-bottom: 20px
+
+}
+
+#artists {
+	position: relative;
+	display: inline-block;
+	margin: 0 40px 0 0;
+	background-color: lightblue;
+	padding: 10px;
+	width: 90%;
+	margin-left: 75px;
+	
+
+}
+
+img {
+	position: relative;
+	display: inline-block;
+	float: left;
+	max-width: 250px;
+	clear: left;
+}
+
+p {
+	position: relative;
+	display: inline-block;
+	float: left;
+}
